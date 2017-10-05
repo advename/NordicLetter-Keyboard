@@ -1,0 +1,9 @@
+Setup Guide:
+
+1. Follow all instructions. 
+2. You'll find a complete HOW TO GUIDE on your Desktop.
+3. To finally use the Nordic letters keyboard, you need to reboot your PC.
+4. Done! Enjoy your new "keyboard".
+
+(Note: All previous functions of your keyboard will remain as before, only those letters
+have been added)
